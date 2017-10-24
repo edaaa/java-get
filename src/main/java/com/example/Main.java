@@ -72,7 +72,7 @@ public class Main {
   @Autowired
   private DataSource dataSource;
 
-    private static String UPLOADED_FOLDER = "/images/";
+    private static String UPLOADED_FOLDER = "/immages/";
     public static void main(String[] args) throws Exception {
     SpringApplication.run(Main.class, args);
   }
